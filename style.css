@@ -1,0 +1,76 @@
+title{
+  font-weight: bold;
+}
+#form2{
+  background-color: rgb(240, 240, 240);
+  margin: 0 400px 0 400px;
+border-radius: 4px;
+}
+#page{
+  background-color: rgba(5, 5, 70, 0.55);
+}
+#p1{
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+  padding-top: 20px;
+}
+#p2{
+  text-align: center;
+  font-family: sans-serif;
+  color: grey;
+}
+#firstname{
+  margin-left: 40px;
+  font-size: 19px;
+  padding: 6px 10px 6px 10px;
+  border-radius: 4px;
+  border-color: white;
+}
+#lastname{
+  margin-left: 36px;
+  font-size: 19px;
+  padding: 6px 10px 6px 10px;
+  border-radius: 4px;
+  border-color: white;
+}
+
+#email{
+
+  margin-left: 40px;
+  font-size: 19px;
+  padding: 6px 10px 6px 10px;
+  border-radius: 4px;
+  border-color: white;
+}
+#pass{
+  margin-left: 40px;
+  font-size: 19px;
+  padding: 6px 10px 6px 10px;
+  border-radius: 4px;
+  border-color: white;
+}
+#terms{
+  margin-left: 40px;
+}
+#reg{
+  font-size: 19px;
+  padding: 6px 180px 6px 180px;
+  border-radius: 4px;
+  border-color: white;
+  align-items: center;
+  background-color: green;
+  color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+#back{
+  font-family: sans-serif;
+  font-weight: bolder;
+
+  color: #116466;
+  text-decoration: inherit;
+  font-size: 25px;
+  border-radius: 10%;
+  padding: 2px;
+}
